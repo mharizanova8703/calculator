@@ -1,0 +1,23 @@
+.bg-black {
+    background-color: black;
+}
+
+.dark-purple {
+    background-color: #8c365f;
+}
+
+.border-radius {
+    border-radius: 0.9rem;
+}
+
+.bright-pink {
+    background-color: #e5599c;
+}
+
+.bg-pink {
+    background-color: #ed45cd;
+}
+
+.font-size-xs {
+    font-size: 1.5rem;
+}
